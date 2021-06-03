@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The orders, proceedings, punishments, and priviledges of the Commons House of Parliament in England</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38256</idno><idno type="EEBO-CITATION">12547072</idno>
+  <idno type="VID">63087</idno>
+  <idno type="EEBO-PROQUEST">2240946443</idno>
+  
+            <idno type="STC">Wing E2675</idno>
+            <idno type="STC">ESTC R17402</idno>
+            <idno type="OCLC">12547072</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63087)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 210:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The orders, proceedings, punishments, and priviledges of the Commons House of Parliament in England</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[4], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Rules and practice.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63087:1"/>
+            <p>THE ORDERS Proceedings, Punishments, AND Priviledges of the COMMONS House of PARLIAMENT in ENGLAND.</p>
+            <p>Printed, <hi>Anno Dom.</hi> 1641.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:63087:2"/>
+            <pb facs="tcp:63087:2"/>
+            <head>A TABLE OF The <hi>Titles</hi> concerning the Orders, Proceedings, Punishments, and Priviledges <hi>en Parlement.</hi>
+            </head>
+            <list>
+               <head>1.</head>
+               <item>
+                  <hi>WHo may be Burgesses.</hi>
+               </item>
+               <item>2. <hi>Choice Presentment, and pla<g ref="char:EOLhyphen"/>cing of a Speake.</hi>
+               </item>
+               <item>3. <hi>First reading of a Bill.</hi>
+               </item>
+               <item>4. <hi>Second Reading.</hi>
+               </item>
+               <item>5. <hi>Order in speaking.</hi>
+               </item>
+               <item>6. <hi>Licence to proceed.</hi>
+               </item>
+               <item>7. <hi>Committing of Bills.</hi>
+               </item>
+               <item>8. <hi>Respite from sitting.</hi>
+               </item>
+               <item>9. <hi>Lords come to the House.</hi>
+               </item>
+               <item>10. <hi>Fee for</hi> Speaker <hi>and</hi> Sergeant.</item>
+               <item>11. <hi>Punishment of Offendors against them of the House.</hi>
+               </item>
+               <pb facs="tcp:63087:3"/>
+               <item>12. <hi>Punishment of Offendors within the House.</hi>
+               </item>
+               <item>13. <hi>Priviledges of the House.</hi>
+               </item>
+               <item>14. <hi>Bill of Subsidie.</hi>
+               </item>
+               <item>16. <hi>Subsidie of the Clergie.</hi>
+               </item>
+               <item>16. <hi>Generall pardon.</hi>
+               </item>
+               <item>17. <hi>Presence of the King, or his absence.</hi>
+               </item>
+               <item>18. <hi>The Royall Assent to Bills passed in both Houses.</hi>
+               </item>
+               <item>19. <hi>Attendance of the Warden of the Fleet.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:63087:3"/>
+            <head>
+               <hi>THE</hi> ORDERS Proceedings, Punishments, and priviledges of the <hi>Commons</hi> House of <hi>Parliament</hi> in <hi>England.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>What persons may be Burgesses in Parliament, what not.</p>
+               </argument>
+               <p>THe Sonne and Heire of an Earle may bee, and so was the Lord <hi>Russell, E<g ref="char:EOLhyphen"/>liz.</hi> 6</p>
+               <p>He that hath no voyce in the Higher House, so the Sonne and Heire apparent of a Baron, and so was Master <hi>Henry Brooke.</hi>
+               </p>
+               <pb n="2" facs="tcp:63087:4"/>
+               <p>A <hi>Prebendary</hi> may not be, and therefore <hi>Alexander Nowell</hi> was refused, because he was <hi>Prebendary</hi> of <hi>westminster,</hi> whereupon a writ is<g ref="char:EOLhyphen"/>sued to choose another for <hi>Leo</hi> in <hi>Cornewall.</hi>
+               </p>
+               <p>Sir <hi>Henry Piercy</hi> was chosen Knight for two severall Counties, and thereupon it was adjudged by the House, that he should serve for that Coun<g ref="char:EOLhyphen"/>ty, which first chose him. 13. <hi>Eliz.</hi>
+               </p>
+               <p>If a Burgesse be incurably sicke, another may be chosen in his place, by lycence of the House, but not if he be easily sicke, or sent in his <hi>Majesties</hi> service, unlesse the House will allow of a new Election, 18. <hi>Martii. 23. Eliz.</hi>
+               </p>
+               <p>And it was then ordered, that during the Ses<g ref="char:EOLhyphen"/>sion, no writs should issue to choose <hi>Knights,</hi> or <hi>Burgesses,</hi> but by warrant of the House to the Clarke of the Crowne, according to the antient usage.</p>
+               <p>The <hi>Burgesses</hi> of <hi>Sandwich</hi> were kept out of the House, untill the perfect returne was knowne. 15. <hi>E.</hi> 6.</p>
+               <p>One <hi>Cavell</hi> was returned for <hi>Travayny,</hi> &amp; <hi>Lud<g ref="char:EOLhyphen"/>ders-hall,</hi> he appeared for <hi>Ludders-hall,</hi> and there<g ref="char:EOLhyphen"/>fore a writ issued to choose another for <hi>Travayny 11. Mar. 7. E.</hi> 6.</p>
+               <p>
+                  <hi>William Gregham</hi> and were returned Knights for <hi>Norfolk,</hi> &amp; the writ returned by the Lord <hi>Chancellor,</hi> suppressed it by great motion, and directed another writ to choose others.</p>
+               <p>A <hi>Burgesse</hi> indicted of Felony, shall not be re<g ref="char:EOLhyphen"/>moved before conviction, 8. <hi>Feb. 23. Eliz.</hi>
+               </p>
+               <pb n="5" facs="tcp:63087:4"/>
+               <p>
+                  <hi>Walter Ʋaughan</hi> was received notwithstanding an outlawry, because it appeared that it was for debt, and that he had compounded for it.</p>
+               <p>A Burgesse out-lawed was denyed the Privi<g ref="char:EOLhyphen"/>ledge of the House, but upon the question, and upon division of the House, he was allowed the Priviledge against an Arrest in <hi>London. 24. Feb. 5. Eliz.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>The choice of the Speaker, his presentment, placing and Speech.</p>
+               </argument>
+               <p>HEe that shall be <hi>Speaker</hi> must be a K<seg rend="sup">t</seg>. or a Burgesse returned, and commeth to the House, and taketh the Ordina<g ref="char:EOLhyphen"/>ry Oath as others.</p>
+               <p>The fittest seate for him is the lowest Rowe, and the middest thereof, for so he may be best heard▪ when he shall speake.</p>
+               <p>One of his Majesties Counsell doth use to pro<g ref="char:EOLhyphen"/>pound, that it is his Majesties pleasure, that they shall freely choose a <hi>Speaker</hi> for them, and yet commendeth in his opinion some person by name.</p>
+               <p>Then he, which is so recommended, standeth up, and prayeth to be heard before they proceed to the choice of him, and withall disableth him<g ref="char:EOLhyphen"/>selfe (giving them thankes for their good opini<g ref="char:EOLhyphen"/>nion of him) as for being not equally learned in the Lawes to others, that have had the place.</p>
+               <pb n="4" facs="tcp:63087:5"/>
+               <p>Not being Eloquent by nature, or Art, nor experienced in the affaires of the Common-wealth, or in the orders of the House, being of meane countenance, wealth, or credit.</p>
+               <p>Being carefull for their credit, more then his owne, and therefore bound to view and discover his wants, which otherwise might be covered by their good opinion.</p>
+               <p>If they presse him, he is to yeeld, and so is brought to the Chaire, and then they usually give two or three dayes respite, before he be presen<g ref="char:EOLhyphen"/>ted to the King.</p>
+               <p>Upon the day of his presentment to the King, he commeth to the Barre of the higher House, or other appointed place, where his Majestie shall assigne, and after their solemne courtesies, sheweth how he is elected, reneweth the reasons of his disability, desireth to be discharged, and that they of the Commons-House, may have Lycense to proceed, to a new election of ano<g ref="char:EOLhyphen"/>ther.</p>
+               <p rend="indent">
+                  <hi>Then the Lord Chancellour receiving his Ma<g ref="char:EOLhyphen"/>jesties pleasure enableth him.</hi>
+               </p>
+               <p>Hereupon the Speaker gives thankes for that opinion conceived of him, promiseth to doe his dutifull endeavour, and desireth that his ready good will may be accepted in place of all.</p>
+               <p>And so with a low curtesie beginneth his orati<g ref="char:EOLhyphen"/>on, which commonly standeth upon these parts, viz.</p>
+               <p n="1">1. <hi>Entrance aptly taken from the time or per<g ref="char:EOLhyphen"/>son.</hi>
+               </p>
+               <p n="2">
+                  <pb n="5" facs="tcp:63087:5"/>2. <hi>The praise of his Majesties Government or Lawes of his time.</hi>
+               </p>
+               <p n="3">3. <hi>Thankes-giving for summoning the Parlia<g ref="char:EOLhyphen"/>ment, whereby the soares of the Common-wealth may be prevented, and remedied.</hi>
+               </p>
+               <p n="4">4. <hi>Promise of all diligence and fidelity in them of the Lower-House.</hi>
+               </p>
+               <p n="5">5. <hi>Assurance of his owne duty, as Power will permit.</hi>
+               </p>
+               <p n="6">6. <hi>The Petitions that be ordinary, &amp;c.</hi>
+               </p>
+               <p>First, for enjoyning the Priviledge of the House, then for themselves, their goodnesse and Servants.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>The first Reading of any Bill.</p>
+               </argument>
+               <p>VPon the first Reading of a Bill, the Speaker taking the Bill in one hand, and his cap in another hand, may say, you have heard the Bill, the Contents whereof are these: <hi>And after the Rehearsall thereof, to reade another, without suffering any man (if hee may stay him) to speake unto it, but rather to ad<g ref="char:EOLhyphen"/>vise thereof untill the next Reading, which is a meane not onely to heare effectuall Speech, but also to save a great deale of time.</hi>
+               </p>
+               <pb n="6" facs="tcp:63087:6"/>
+               <p>A Bill may not be committed upon the first Reading, and yet 27. <hi>Ian. 23. Eliz.</hi> the <hi>Proviso</hi> for the Clerke of the Market was (upon the first Reading thereof) committed with the Bill.</p>
+               <p>See afterwards that the Subsidy of the Cler<g ref="char:EOLhyphen"/>gie passeth at the first Reading, and so the Pardon.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>The second Reading of a Bill.</p>
+               </argument>
+               <p>AT the second Reading of a Bill it ought to be either ingrossed, committed, or re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ected, and if any shall offer to speake thereto, after that three have spoken all of one side, the <hi>Speaker</hi> may say, that the Bill is suffici<g ref="char:EOLhyphen"/>ently spoken unto, what is your pleasures, will you have it ingrossed, or committed?</p>
+               <p rend="indent">
+                  <hi>And if the more voises will have it ingrossed, it must be done accordingly.</hi>
+               </p>
+               <p>And if the more voices will have it committed, then the <hi>Speaker</hi> entreates them to appoint the <hi>Committees,</hi> and that done, their names, and the time, and place of meeting, and the day of their Report shall be endorsed upon it.</p>
+               <p>If the more voices be not apparently discerned, then the <hi>Speaker</hi> may put the question again still: as many as will have this Bill ingrossed, sayd I, and after that voice, so many as will not have it ingrossed, say no.</p>
+               <pb n="7" facs="tcp:63087:6"/>
+               <p>Againe, if the sides seeme equall, the <hi>Spea<g ref="char:EOLhyphen"/>ker</hi> may pray all those that be on the affirmative to goe downe with the Bill, and the rest to sit in their places; and the sides shall be numbred by Tellers to be appointed by the <hi>Speaker,</hi> and the greater number shall prevaile, and the lesse num<g ref="char:EOLhyphen"/>ber shall goe, and fetch them vp (in token of con<g ref="char:EOLhyphen"/>sent) And the <hi>Speaker</hi> shall report the yea, or no, according to the stronger side.</p>
+               <p>One Bill may be twice read in one day.</p>
+               <p rend="indent">
+                  <hi>A Bill may be committed after the ingrossing.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>Orders to be observed by such as shall speake.</p>
+               </argument>
+               <p>IF two persons shall arise to speake, the <hi>Spea<g ref="char:EOLhyphen"/>ker</hi> must appoint him to speake first, that first arose, and offered to speake.</p>
+               <p>One man may not speake twice to one Bill in one day, although hee will change his opinion, except it be onely for the moving of some order.</p>
+               <p>Every man that will speake, must direct his Speech to the <hi>Speaker,</hi> and not to any other, but onely by <hi>circumlocution,</hi> as by saying, <hi>hee which spake with the Bill, or he which made this, or that reason.</hi>
+               </p>
+               <p rend="indent">
+                  <hi>If any touch other by nipping, or unreverent Speech, the</hi> Speaker <hi>may admonish him.</hi>
+               </p>
+               <p>If any shall speake dishonorably of the King,
+<pb n="8" facs="tcp:63087:7"/> or his Counsell, he is not onely to be interrup<g ref="char:EOLhyphen"/>ted, but may be also sent by the House unto the Tower. As for Example,</p>
+               <p>
+                  <hi>Withers</hi> a Burgesse for <hi>London Eliz.</hi> uttered certaine Speeches, whereby it seemed; <hi>that hee noted the Lord William Howard (then Lord Cham<g ref="char:EOLhyphen"/>berlaine and sometimes Lord Admirall) with cor<g ref="char:EOLhyphen"/>ruption, but named him not;</hi> And therefore it was thought, <hi>he should not be punished, nor put to answer for it.</hi>
+               </p>
+               <p>If any speake too long, and speake within the matter, he may not be cut off, but if he be long, and out of the matter, then may the Speaker gently admonish him of the shortnesse of the time, or the businesse of the House, and pray him to make as short as he may.</p>
+               <p>But if he range in evill words, then to interrupt him, saying; J pray you to spare these words, they become not this place, of State and Coun<g ref="char:EOLhyphen"/>sell.</p>
+               <p>It hath not beene the order here so to doe, I pray you take care of us all, considering what danger the report hereof may breed unto us.</p>
+               <p>No Speech ought to be made but onely in matter in Bill, and therefore all other motions ought to be represented, and the movers, if the matter be good, to put their desire into a Bill.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="9" facs="tcp:63087:7"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>Lycence from the King to proceed.</p>
+               </argument>
+               <p>A Bill Exhibited by Clothiers of <hi>Devon<g ref="char:EOLhyphen"/>shire,</hi> for remitting the Act of reliefe, for making of Clothes, redelivered un<g ref="char:EOLhyphen"/>to them, with promise, that they should receive an answer thereof, at the returne of the Knights of the Shiere 6. of <hi>November, 1. Ed.</hi> 6. and af<g ref="char:EOLhyphen"/>terwards suite was made by the Speaker, the Pri<g ref="char:EOLhyphen"/>vy Counsell, and 12. others to know his Maje<g ref="char:EOLhyphen"/>sties pleasure, whether they might treate there<g ref="char:EOLhyphen"/>of.</p>
+               <p>And three dayes after it was answered, they might treate thereof, having in regard the cause of the granting of that Reliefe.</p>
+               <p>The Speaker shewed, that it was the Queens pleasure, that the House should proceed no fur<g ref="char:EOLhyphen"/>ther with the Bill, for the Revenues of the Queen, because it extended to divers which had accoun<g ref="char:EOLhyphen"/>ted 5. <hi>mart. &amp; 4. &amp; 5. Phi b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; ma.</hi>
+               </p>
+               <p>Three of the Privie Counsell (wherof Sr. <hi>Edward Rogers</hi> then controller was one) delive<g ref="char:EOLhyphen"/>red to the House, her Majesties e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pressive com<g ref="char:EOLhyphen"/>mandement, that they should proceed no further with their suite, which was in a sort mooved to be reiterated by a Speech of this writer <hi>W. L.</hi> But that they
+<pb n="10" facs="tcp:63087:8"/> should satisfie themselves with her promise.</p>
+               <p>And then <hi>Peter Wentworth,</hi> and <hi>James Dalton,</hi> moved, whether this did not restraine the liberty of the House, upon which (after many Argu<g ref="char:EOLhyphen"/>ments) they resolved to cease till the n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xt day. 9. <hi>Novembris, 8. Eliz.</hi> And afterwards 23.</p>
+               <p>Now the Queene revoked her said comman<g ref="char:EOLhyphen"/>dement, and gave them liberty to proceed, But upon consulation amongst themselves, they spa<g ref="char:EOLhyphen"/>red to proceed any further.</p>
+               <p>It was ordered, <hi>that Mr. Warner should re<g ref="char:EOLhyphen"/>ceive of the</hi> Speaker <hi>a Bill exhibited by Hubbart, and his wife against Sir Nicholas Hare, and that certaine of the House should heare, and (if they could) determine the cause, the Protectors grace to make an end thereof. 11. Febr. 1. Ed.</hi> 6.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>Calling of the House and the paine of their absence.</p>
+               </argument>
+               <p>IT is a common policy to say upon the Rea<g ref="char:EOLhyphen"/>ding, that the House shall be called on Sa<g ref="char:EOLhyphen"/>turday, to say it shall be called on Wednes<g ref="char:EOLhyphen"/>day, and so from day to day by feare thereof, to keepe the company together.</p>
+               <p>It was ordered that no Knight or Burgesse, should depart without lycense of the House, or of
+<pb n="11" facs="tcp:63087:8"/> the <hi>Speaker,</hi> to be entred with the Clarke of the Crowne, that he make no writ to leavy such Fees or wages, 18. <hi>Mart. 23. Eliz.</hi> and upon the first day of the <hi>Parliament,</hi> there was moreover laid upon each Knight, which had not appeared, 20 l. and up<g ref="char:EOLhyphen"/>on every Burgesse 10 l.</p>
+               <p rend="indent">
+                  <hi>See the statute E. 5. f. 2. statute cap. 4. whereupon this double punishment for absence is grounded.</hi>
+               </p>
+               <p>After that the <hi>Committees</hi> have made their re<g ref="char:EOLhyphen"/>port, and opinion of any bill referred to their con<g ref="char:EOLhyphen"/>sideration, it shall be thrice read, &amp; it may be spo<g ref="char:EOLhyphen"/>ken unto at every <hi>Reading.</hi>
+               </p>
+               <p>It was ordered that the <hi>Committees</hi> of the <hi>lower House</hi> upon a conference with the Lords, might urge any reasons, tending to the maintenance of a<g ref="char:EOLhyphen"/>ny thing that had passed the house, <hi>but not of any new thing to be propounded untill the house were first made privie thereto.</hi>
+               </p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <p>The third reading of a Bill.</p>
+               </argument>
+               <p>WHen a Bill is ingrossed, and hath received the third reading, it must either passe, or be rejected by the more voices: if it passe, then it must be endorsed, <hi>Soit baillé aux Seigneurs, and if it he rejected, it not come any more in the House.</hi>
+               </p>
+               <p>At one day (after a Bill is past) and not sent a<g ref="char:EOLhyphen"/>way, the <hi>Speaker</hi> may discover any mistaking of words therein, which may be amended, and thrice
+<pb n="13" facs="tcp:63087:9"/> read, and passe by. Question 30. <hi>Ianuary 23. Eliz.</hi>
+               </p>
+               <p>If the Lords agree to any Bill sent unto them from the Lower house, it must be indorsed, <hi>les Seigneues out assentis,</hi> and then it shall be re<g ref="char:EOLhyphen"/>manded to the Lower house.</p>
+               <p>And if the Lords first passe a Bill, and send it to the Lower House, which also agree thereto, it must be endorsed, <hi>les commons ont assentis.</hi>
+               </p>
+               <p>But if there be any difference for alteration of a bill, betweene the Lords and Commons, then it is requisite that some speciall persons of each House may meet, and conferre, that the one house may understand the meaning of the other.</p>
+               <p>A Bill signed by the King, and sent to the Lower House, may not be altered in any part thereof, without his Majesties lycense.</p>
+               <p>But if a bill come from the Lords, and not sig<g ref="char:EOLhyphen"/>ned by Him, it may be altered by noteing, what should be taken from it, or added unto it.</p>
+               <p>A bill that came from the Lords was amended, and a scrowle of addition in parchment, put unto it, and sent to the Lords, without any endorsement, <hi>Soit baillé aux seigneurs,</hi> and for want therof they would not proceed, but remanded it to passe the bill, and withdraw that addition, or else to endorse it, and thereupon it was endorsed, 8. <hi>Mar. 23. Eliz.</hi>
+               </p>
+               <p>A bill from the Lords is wont to be sent by some of the Kings learned Counsell, who are to make three courtesies upon the delivery thereof.</p>
+               <p>The <hi>Speaker</hi> is to receive it with his cap in his hand, and to say the house will have consideration of it.</p>
+               <pb n="13" facs="tcp:63087:9"/>
+               <p>Then must he shew unto the House the intitu<g ref="char:EOLhyphen"/>ling of them, and after two or three dayes (accor<g ref="char:EOLhyphen"/>ding to the <hi>Exigency</hi> of the cause) he may reade and passe them as before.</p>
+               <p>
+                  <hi>A bill which passed from the lower House, was re<g ref="char:EOLhyphen"/>manded by the Lords with an addition, and</hi> Pucke<g ref="char:EOLhyphen"/>ring <hi>the Speaker foreseeing the inclination of the House to overthrow the Bill, demanded the Question onely, touching a small addition which was denyed, and so the Bill indirectly dashed, but the body there<g ref="char:EOLhyphen"/>of saved and untouched.</hi>
+               </p>
+               <p>If a bill passe by the Question, yet any additi<g ref="char:EOLhyphen"/>on may be made thrice read, and agreed, <hi>Sedente Curia,</hi> and so any addition to a bill it selfe.</p>
+               <p>The bill of <hi>Navigation</hi> was but halfe read, and (by reason of a long <hi>Argument</hi>) was respited till the next day, but some doubted of that order.</p>
+               <p>The bill of counterfeiting instruments, or seals of Office, was at the third reading, long argued and referred for further <hi>Argument</hi> till the next day, and then also committed to the first <hi>Committees,</hi> and others, 9. <hi>Feb. 29. Eliz.</hi>
+               </p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="14" facs="tcp:63087:10"/>
+               <head>CHAP. IX.</head>
+               <argument>
+                  <p>Respite from sitting.</p>
+               </argument>
+               <p>IF the sitting be respited for a day or more by order, yet then the <hi>Speaker</hi> (accompanied with some) ought in that respite to read a Bill <hi>Pro forma, except is diebus non Juridicis.</hi>
+               </p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X.</head>
+               <argument>
+                  <p>Evidences given by the Lords in the Lower House.</p>
+               </argument>
+               <p>VPon the <hi>attainder</hi> of Sir <hi>Tho. Seymoure</hi> Lord <hi>Admirall,</hi> it was ordered in the <hi>Lower House,</hi> that the <hi>Speaker</hi> and privie Counsel should desire of the Queen, <hi>that the Lords which gave Evidence in the higher house, might also give the same in the lower house. 2. Mar. 10. E.</hi> 6.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI.</head>
+               <argument>
+                  <p>Fees for the Speaker and Sergeant.</p>
+               </argument>
+               <p>THe <hi>Speaker</hi> is wont to have 100 l. of the Prince for the <hi>Parliament.</hi>
+               </p>
+               <p>Of the Subject for every private bill for assurance 5 l. before he deliver it out of his hand.</p>
+               <p>For every name in any Bill for <hi>Denizens</hi> 5 l. unlesse he doe agree for lesse.</p>
+               <pb n="15" facs="tcp:63087:10"/>
+               <p>The Sergeant hath 2 s. of of every Burgesse, and 4 s. of every K<seg rend="sup">t</seg>. for each Session of <hi>Parliament.</hi>
+               </p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII.</head>
+               <argument>
+                  <p>Punishment of offences.</p>
+               </argument>
+               <p>VPon complaint of Sir <hi>Robert Brandling</hi> (Burgesse of <hi>Newcastle</hi>) that <hi>Witherington</hi> and others had made an affray upon him. It was ordered, that the Lord <hi>Chancellor</hi> should award an <hi>Attachment</hi> to the <hi>Lord President</hi> in the <hi>North</hi> against <hi>Witherington,</hi> and the house desired the Lords of the Counsell to receive the Bill of Sir <hi>Robert</hi> against <hi>Witherington,</hi> and to take order therein, according to their antient Custome.</p>
+               <p>And when the Bill was read to <hi>Witherington,</hi> he confessed the affray, and after one <hi>Ellaker,</hi> Servant to the Duke of <hi>Suffolke,</hi> was for the same cause sent in by his Master, and it was ordered, <hi>that hee should remaine in the ward of the</hi> Sergeant <hi>of the house till hee found surety to appeare in the Kings Bench, when he should be appointed, and to bee bound to the peace, and after that he was bound to the peace,</hi> Sir <hi>Robert</hi> sued for his discharge, and foure of the House were appointed to desire the Dukes favour for him, 15. <hi>Febr. 6. Eliz. 6. 5. &amp; 5. Aprill</hi> 7.</p>
+               <p>
+                  <hi>M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ingt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> was sent to the <hi>Tower</hi> for striking of <hi>Iohnson,</hi> a Burgesse, and yet he excused himselfe, that he knew him not to be a <hi>Burgesse,</hi> &amp; after two dayes he was fetcht by the Sergeant, and dischar<g ref="char:EOLhyphen"/>ged by the House, and for that <hi>Iohnson</hi> prayed that
+<pb n="16" facs="tcp:63087:11"/> he might goe safe, that was committed to two of the House, 24. <hi>Aprill, 1. March.</hi>
+               </p>
+               <p>
+                  <hi>Joha Savage</hi> wounded <hi>Ceder Meniall</hi> servant to <hi>Brooke</hi> a Knight of the <hi>Parliament,</hi> and it was established, that <hi>Proclamation</hi> shall be where the fact was done, <hi>that Savadge</hi> should <hi>render his body in the Kings-bench within a quarter of a yeare.</hi>
+               </p>
+               <p>Moreover, it is accorded, that likewise it bee done in time to come, in like case. <hi>Statute 5. f. 2. cap.</hi> 6. and the same is confirmed, 11. <hi>Hen. 6. cap.</hi> 11.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII.</head>
+               <argument>
+                  <p>Punishment of offences committed by them of the House.</p>
+               </argument>
+               <p>THe <hi>Chancellor</hi> of the <hi>Dutchie</hi> Sir <hi>Ambrose Cane</hi> complained of Sir <hi>Thomas White,</hi> Al<g ref="char:EOLhyphen"/>derman<note place="margin">Sir Thomas White for words.</note> of <hi>London,</hi> for calling him to wit<g ref="char:EOLhyphen"/>nesse of misliking the Booke of <hi>Common-prayer.</hi>
+               </p>
+               <p>Sir <hi>Thomas</hi> answered, that he said that Mr. <hi>Chancellor</hi> wished that the Booke might bee well considered, and he asked the <hi>Chancellor</hi> forgive<g ref="char:EOLhyphen"/>nesse, and had it 6. <hi>Mart. 1. Eliz.</hi>
+               </p>
+               <p>Upon the bill of confirmation of <hi>Letters pat<g ref="char:EOLhyphen"/>tents,</hi>
+                  <note place="margin">Copely words.</note>
+                  <hi>Thomas Copely</hi> said, that he feared that by this the Queen might give away the Crowne from the right <hi>Inheritors,</hi> and therefore he was committed to the custody of the Sergenat; but, forasmuch, as he excused himselfe by his Youth, the House moved the Queene to pardon him, who would not
+<pb n="17" facs="tcp:63087:11"/> presently grant, but said, that she would not be un<g ref="char:EOLhyphen"/>mindfull of their request. 5. <hi>Martii 4. &amp; 5. Phil. et Mariae.</hi>
+               </p>
+               <p>
+                  <hi>Thrower</hi> was committed, for saying, if a bill<note place="margin">Thrower for words.</note> came in for womens wyers, they would dispute it, and put it to the <hi>Question, 7. Aprill, 1. Eliz.</hi>
+               </p>
+               <p>Upon <hi>Stories submission,</hi> being in the Tower, it was ordered, that the privy Counsell of the house should declare unto the King, that their resolution was to have him discharged, and to pray the King to pardon his offences.</p>
+               <p>Sir <hi>Edward Warner,</hi> Lieutenant of the Tower,<note place="margin">Sir Edward warner Lieutenant of the Tow<g ref="char:EOLhyphen"/>er for crimi<g ref="char:EOLhyphen"/>nall cause.</note> was sent out of his House to the Tower, for an of<g ref="char:EOLhyphen"/>fence done before the Summons of the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and Sir <hi>William Cecill,</hi> then Secretary, said, that the Queene was then assured by her Justices, that she might commit any of the House during the <hi>Parliament,</hi> for any offence against her Crown and Dignity, and that they shewed divers Presi<g ref="char:EOLhyphen"/>dents thereof.</p>
+               <p>The servants of Sir <hi>Henry Iones,</hi> a Knight of<note place="margin">Sir Henry Iones for all affray.</note> the House, did hurt a servant of one <hi>Gardiner,</hi> a Burgesse, the Master was awarded to the Sheriffe of <hi>London</hi> to bring them into the Court, and their Masters gave sureties, that they should appeare the next Terme, and answer both the Queene and the party, and so they were delivered by the priviledge to waite upon their Masters, and so by conference of this case with Sir <hi>Edward Warners,</hi> it seemeth a man shall not have the priviledge of the House for a <hi>Criminall</hi> offence, that immediately touch<g ref="char:EOLhyphen"/>eth
+<pb n="18" facs="tcp:63087:12"/> the Queene, but where it toucheth her indi<g ref="char:EOLhyphen"/>rectly, as by Trespasse against another.</p>
+               <p>
+                  <hi>Pearne</hi> was committed to the <hi>Marshalsey</hi> for<note place="margin">Pearne for words.</note>
+                  <hi>Pickery, without any notice given to the House.</hi>
+               </p>
+               <p>If any of the house be to answer any <hi>contempt,</hi>
+                  <note place="margin">Barre.</note> or offence, he must goe to the Barre, and not keep his place.</p>
+               <p>
+                  <hi>Arthur Hall,</hi> Burgesse for <hi>Grintham</hi> in <hi>Lin<g ref="char:EOLhyphen"/>colnshire,</hi>
+                  <note place="margin">Arthur Hall for a booke.</note> submitted himselfe at the Bar for wri<g ref="char:EOLhyphen"/>ting and imprinting a Booke, wherein he defaced the <hi>Authority</hi> of the Lower House, or their estate of <hi>Parliament,</hi> and he was put out of the Doores, and these points touching him, were resolved.</p>
+               <p rend="centerJustify">
+                  <hi>Viz:</hi>
+               </p>
+               <p>
+                  <hi>That he be committed to the</hi> Tower, <hi>which is the prison for this house for a certaine time, and pay a fine to the Queene, and be severed from being a mem<g ref="char:EOLhyphen"/>ber of the house, make a warrant to the Clarke of the Crowne to direct a breve to the</hi> Sheriffe <hi>of</hi> Lincoln<g ref="char:EOLhyphen"/>shire, <hi>for the Burrough of Grantham, to choose and returne a new Burgesse, that it be published by order of the house that his book is false, and seditious, and that himselfe be brought into the house, to have this Iudgement pronounced against him by the</hi> Speaker, <hi>in the name of all the House, that the Sergeant bee commanded to convey him to the</hi> Tower, <hi>by warrant from the House, signed by the</hi> Speaker, <hi>and that all the proceeding be written, read, and entered, as other causes of the House are, 14. Febr. 23. Eliz.</hi>
+               </p>
+               <pb n="19" facs="tcp:63087:12"/>
+               <p>Doctor <hi>Storie,</hi> was reprehended, for being of the<note place="margin">Doctor Sto<g ref="char:EOLhyphen"/>rie.</note> Lower-House, he came of Counsell with the Bi<g ref="char:EOLhyphen"/>shop of <hi>Winchester,</hi> before the Lords in the High<g ref="char:EOLhyphen"/>er house, touching a Parliament cause and ac<g ref="char:EOLhyphen"/>knowledged his offence. 23. <hi>Mar. 1. Eliz.</hi>
+               </p>
+               <p>The House had agreed, 23. <hi>Eliz.</hi> to have a common Fast, whereof the Queene misliked not for the matter, but for the Innovation of order without her Privy, and without Ecclesiasticall authority, for which cause the Commons sub<g ref="char:EOLhyphen"/>mitted themselves, and she gave them their Par<g ref="char:EOLhyphen"/>don.</p>
+               <p>Amongst many questions resolved upon in that Parliament. 21. <hi>fol.</hi> 2. this was one; after the assembly of the Parliament, and after the chiefe matters being propounded by the King, For which he called the Parliament.</p>
+               <p>The Lords, and Commons might treate of o<g ref="char:EOLhyphen"/>ther matters first, and forbeare to handle those, vntill the matters propounded by them were discussed, notwithstanding that they were also enjoyned to the contrary by the King.</p>
+               <p>It was answered that they might not so treate, and that if they did, they were to be punished as Traytors, but 1. <hi>Hen. 4. cap.</hi> This Parlia<g ref="char:EOLhyphen"/>ment and those Resolutions of 21. of 2. were repealed, and sundry of the Judges that joy<g ref="char:EOLhyphen"/>ned in that Resolution were hanged, so be<g ref="char:EOLhyphen"/>fore.</p>
+               <pb n="20" facs="tcp:63087:13"/>
+               <p>Note that the King 15. and 10. of the Par<g ref="char:EOLhyphen"/>liament, may as well dissolve, as he did summon it, if he like not their proceeding, and therefore this resolution was needlesse.</p>
+               <p>Mr. <hi>Cope, Lukenor, Hurleston, Braynbridge</hi> and<note place="margin">Cope and o<g ref="char:EOLhyphen"/>thers for con<g ref="char:EOLhyphen"/>ferences be<g ref="char:EOLhyphen"/>fore Parlia<g ref="char:EOLhyphen"/>ment.</note> others were committed to the Tower by the Queene, for that before the Parliament, they had sundry conventions for the preferring in Parlia<g ref="char:EOLhyphen"/>ment, a booke touching the Rates of the Church, and a forme of an Act for the establishing the same.</p>
+               <p>Which also they did print, preferre and urge in Parliament, But it seemed, that if they had treated thereof onely in time of Parliament (be<g ref="char:EOLhyphen"/>ing Burgesses) they should not have beene im<g ref="char:EOLhyphen"/>peached, <hi>Februarij 28. Eliz.</hi>
+               </p>
+               <p rend="indent">
+                  <hi>That the Gate-house is sometimes vsed for a Prison to this House.</hi>
+               </p>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. XV.</head>
+               <argument>
+                  <p>Priviledges for them of the House.</p>
+               </argument>
+               <p>SEE the Statute. 8. <hi>Hen. 6. cap.</hi> 1. where it is said, that the Clergie called to the Convocation, shall enjoy such liberties, or defence, in comming, tarrying, and going, as the Lords and Commonalty of <hi>England</hi> called to the Parliament.</p>
+               <p>It is the order, that if any Burgesse require
+<pb n="21" facs="tcp:63087:13"/> Priviledge for himselfe, and his Servant, he shall<note place="margin">Warrant for a writ of pri<g ref="char:EOLhyphen"/>viledge.</note> have a warrant signed by the Speaker, to obtaine the writ of Priviledge, and for that <hi>William Ward</hi> Burgesse for <hi>Lan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> got such a writ, without such a warrant, it was committed to divers to be exa<g ref="char:EOLhyphen"/>mined. 22. <hi>Februarij 6. Ed.</hi> 6.</p>
+               <p>Certaine of the House went by Order to the Common place to excuse the appearance of Mr. <hi>Palmer</hi> (a Burgesse) in attaint 4. <hi>No. 3. Ed. 6. Hugh Lloyd,</hi>
+               </p>
+               <p>It is ordered that <hi>Hugh Lloyd</hi> (by <hi>Procedend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> should be put from the Priviledge, and be deli<g ref="char:EOLhyphen"/>vered to the Sheriffe of <hi>London</hi> (in whose ward he was before) but he escaped, and was taken, and sent to the <hi>Gate-house</hi> for the time, and the next day sent to <hi>London</hi> in such case as he was be<g ref="char:EOLhyphen"/>fore the Priviledge granted, and to abide the or<g ref="char:EOLhyphen"/>der of the House, whilst it should sit (though he agreed with his Creditor called <hi>Gordeon</hi>) or after the Sessions, to abide the order of the Privy Counsell for his misdemeanor. 28. <hi>Mar. 6. E.</hi> 6. and afterward 15. of <hi>Aprill.</hi> It was ordered, <hi>that when he had satisfied his Creditors, he should be delivered from the Counter to the Serjeant of the House and discharged of imprisonment there, not<g ref="char:EOLhyphen"/>withstanding any action layd upon him in London, after his first impriso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ment.</hi>
+               </p>
+               <p>There was also one <hi>Criktoft</hi> then committed to the <hi>Gate-house</hi> for five dayes, and discharged, paying his Fees.</p>
+               <p>
+                  <hi>Beaumount</hi> of the Lower-House served a Sub<g ref="char:EOLhyphen"/>poena
+<pb n="22" facs="tcp:63087:14"/> upon the Earle of <hi>Huntington</hi> of the High<g ref="char:EOLhyphen"/>er House, whereupon the Lords sent complaint thereof to the House, which certified, that it was no breach of the Priviledge. 17. <hi>Aprill. 1. Mar.</hi> because it requireth no appearance (as I thinke) and restraineth not the person.</p>
+               <p>
+                  <hi>William Allen</hi> Burgesse for <hi>Calne</hi> in <hi>Wiltshiere</hi> had the Priviledge against an Attachement, up<g ref="char:EOLhyphen"/>on Processe out of the <hi>Exchequer, 21. Aprill, 1. Mar.</hi> to consider whether the Processe were for the Queene, or for a Common person.</p>
+               <p>
+                  <hi>Pledall</hi> Burgesse was bound by Recognizance, to appeare in the Starre-Chamber within 12. dayes after the end of the Parliament, and upon complaint thereof, it was answered by confe<g ref="char:EOLhyphen"/>rence of the Lords with the Justices, and learned Counsell, that it was no breach of the Priviledge, 6. <hi>Decemb. 1. &amp; 2. Phil. &amp; Mar.</hi>
+               </p>
+               <p>
+                  <hi>Stroode</hi> Burgesse intending to exhibite Bills in Parliament for abuses in the Court of <hi>Stanne<g ref="char:EOLhyphen"/>ries,</hi> was there by meanes of one <hi>Turse</hi> (an under Steward) presented and taken for certaine sums<note place="margin">4. <hi>H. 8. ca. 8. The Act of Stroode.</hi>
+                  </note> that were layd upon him, And thereupon this Act. 4. <hi>H. 8. ca.</hi> 8. was made, <hi>viz.</hi>
+               </p>
+               <p>All suites, accusements, condemnations, execu<g ref="char:EOLhyphen"/>tions, fines, amerciements, punishments, correcti<g ref="char:EOLhyphen"/>ons, charges, and impositions put, or had, or here<g ref="char:EOLhyphen"/>after to be put, or had unto, to, or upon the said <hi>Richard Stroode,</hi> and to every other of the per<g ref="char:EOLhyphen"/>sons that now be of this present <hi>Parliament,</hi> or that of any Parliament hereafter, shall be, for any
+<pb n="23" facs="tcp:63087:14"/> Bill, speaking, reasoning, or declaring of any mat<g ref="char:EOLhyphen"/>ter, or matters, concerning the Parliament to be commanded, OF treated of, shall be utterly voyd, and of none effect.</p>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. XVI.</head>
+               <argument>
+                  <p>The Bill of Subsidy.</p>
+               </argument>
+               <p>THe manner is when a Subsidy is granted to carry it alone, and the Pardon to the King, leaving the rest of the Bills in the Chamber, and this is done to prepare the Royall assent to the rest, and to present the Subsidy.</p>
+               <p>The Bill of Subsidy is offered by the Com<g ref="char:EOLhyphen"/>mons onely, for the Lords, (besides the Common vsage for other Bills) doe send it to the House againe, after that they have thrice read it, &amp; there it remaineth to be carryed by the Speaker, when he shall present it. 18. <hi>Mar. 25. Eliz.</hi>
+               </p>
+               <p>After motion m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de for a Subsidy the devise, and dealing therein is committed to divers, who agreed upon Articles, which they doe bring in to be ordered by the House, that Master Attourney Generall shall draw it into forme of an Act, which done, it hath three readings, and so pas<g ref="char:EOLhyphen"/>seth all other Bills, onely the considerations in the <hi>Preamble</hi> are penned by some <hi>Committees,</hi> whereof some be alwaies of the Privie Coun<g ref="char:EOLhyphen"/>sell.</p>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="24" facs="tcp:63087:15"/>
+               <head>CHAP. XVII.</head>
+               <argument>
+                  <p>Subsidies of the Clergie.</p>
+               </argument>
+               <p>THe Confirmation of the Subsidy granted<note place="margin">Subsidies of the Clergie.</note> by the Clergie passed to the question up<g ref="char:EOLhyphen"/>on the first Reading thereof. 4. <hi>Mar.</hi> 23.</p>
+            </div>
+            <div n="18" type="chapter">
+               <head>CHAP. XVIII.</head>
+               <argument>
+                  <p>The generall Pardon.</p>
+               </argument>
+               <p>IT is sent to the House, signed with the Kings hand, and being once read, it is demanded if they be contented to accept it, and so passeth to the Question. 18. <hi>Mart. 25. Eliz.</hi>
+               </p>
+            </div>
+            <div n="19" type="chapter">
+               <head>CHAP. XIX.</head>
+               <argument>
+                  <p>The presence of the King.</p>
+               </argument>
+               <p>IF he come not the first day of the Parliament, then must there be an adjournment untill a<g ref="char:EOLhyphen"/>nother<note place="margin">Pattent.</note> day by Letters Pattents, for other<g ref="char:EOLhyphen"/>wise all is dissolved.</p>
+               <p>If he come in the end of the Parliament, then<note place="margin">Word.</note> it may be prorogued by his word onely uttered by the Lord Keeper, or Chancellour.</p>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. XX.</head>
+               <argument>
+                  <p>The Royall assent to Bills passed both the Houses.</p>
+               </argument>
+               <p>THe Royall assent is Commonly in per<g ref="char:EOLhyphen"/>son yeelded by the words of the King ut<g ref="char:EOLhyphen"/>tered by the Clerke of the Crowne, In <hi>French,</hi> thus, <hi>viz.</hi>
+               </p>
+               <pb n="25" facs="tcp:63087:15"/>
+               <p>To all Bills generally to be enacted <hi>le Roy le veut.</hi>
+               </p>
+               <p>To Private Bills <hi>Soit fait come ceest desirè.</hi>
+               </p>
+               <p>To those that shall not passe <hi>le Royse advi<g ref="char:EOLhyphen"/>sera.</hi>
+               </p>
+               <p>To the grants of Subsidy, <hi>le Roy renda grand mercies,</hi> And according to the variety they be endorsed also.</p>
+               <p>But the Royall assent may be by Letters Pat<g ref="char:EOLhyphen"/>tents in his absence▪</p>
+            </div>
+            <div n="21" type="chapter">
+               <head>CHAP. XXI.</head>
+               <argument>
+                  <p>The Attendance of the Warden of the Fleet.</p>
+               </argument>
+               <p>IT was ordered that the Speaker in the name of the House, should command the War<g ref="char:EOLhyphen"/>den of the Fleet (which is a Minister of this House) that 2. of his Servants should attend at the Staire head, by the doore of the Lower-House, to represse, and apprehend Lacquyes, and Servants, and to bring them to the House. 2. <hi>Februarij 23. Eliz.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
